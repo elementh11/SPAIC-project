@@ -2,7 +2,7 @@
 This repository contains the Jupyter notebook for my Udacity Facebook Secure and Private AI Challenge project.
 
 Description:
-1. A simple fully connected classifier () is built using PyTorch and trained on the MNIST dataset to classify handwritten digits.
+1. A simple fully connected classifier is built using PyTorch and trained on the MNIST dataset to classify handwritten digits.
  
 2. The trained model is then encrypted using private additive sharing and send to two workers (Bob and Alice) created using PySyft.
  
